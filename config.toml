@@ -1,4 +1,6 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "learn"
+title = "Arberia Theme"
+baseURL = "https://exampleSite.com/"
+relativeURLs = "True"
+languageName = "En"
+languageCode = "en-us"
+theme = "arberia"
