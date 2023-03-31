@@ -1,6 +1,0 @@
-title = "My Tech Blog"
-baseURL = "https://chacha8.github.io/"
-relativeURLs = "True"
-languageName = "En"
-languageCode = "en-us"
-theme = "hugo-theme-stack"
