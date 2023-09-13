@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Aiko</title>
-        <link>https://chacha8.github.io/categories/</link>
+        <link>https://aiko-han.github.io/categories/</link>
         <description>Recent content in Categories on Aiko</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://chacha8.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://aiko-han.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>syntax</title>
-        <link>https://chacha8.github.io/categories/syntax/</link>
+        <link>https://aiko-han.github.io/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://chacha8.github.io/categories/syntax/</guid>
+        <guid>https://aiko-han.github.io/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>themes</title>
-        <link>https://chacha8.github.io/categories/themes/</link>
+        <link>https://aiko-han.github.io/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://chacha8.github.io/categories/themes/</guid>
+        <guid>https://aiko-han.github.io/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>تجربة</title>
-        <link>https://chacha8.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</link>
+        <link>https://aiko-han.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://chacha8.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</guid>
+        <guid>https://aiko-han.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</guid>
         <description></description>
         </item>
         <item>
         <title>تجربة مع فراغات</title>
-        <link>https://chacha8.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</link>
+        <link>https://aiko-han.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://chacha8.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</guid>
+        <guid>https://aiko-han.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://chacha8.github.io/categories/test/</link>
+        <link>https://aiko-han.github.io/categories/test/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://chacha8.github.io/categories/test/</guid>
-        <description>&lt;img src="https://chacha8.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://aiko-han.github.io/categories/test/</guid>
+        <description>&lt;img src="https://aiko-han.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>
