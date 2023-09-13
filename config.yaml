@@ -7,7 +7,7 @@ title: My TechNote
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Aiko
         description: Example description
         weight: 1
     zh-cn:
@@ -17,8 +17,8 @@ languages:
         weight: 2
     ja:
         languageName: 日本語
-        title: テックブログ
-        description: テックブログの説明
+        title: Aiko
+        description: 説明
         weight: 3
 
 # Change it to your Disqus shortname before using
