@@ -7,7 +7,7 @@ title: My TechNote
 languages:
     en:
         languageName: English
-        title: Aiko
+        title: Aiko Hanatsuka
         description: Example description
         weight: 1
     zh-cn:
@@ -17,7 +17,7 @@ languages:
         weight: 2
     ja:
         languageName: 日本語
-        title: Aiko
+        title: Aiko Hanatsuka
         description: 説明
         weight: 3
 
@@ -47,7 +47,7 @@ params:
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2023
         customText:
 
     dateFormat:
@@ -56,11 +56,11 @@ params:
 
     sidebar:
         emoji: 🌷
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: technical writer / DevRel
         avatar:
             enabled: true
             local: true
-            src: img/avatar-img.jpg
+            src: img/avatar.png
 
     article:
         math: false
@@ -198,7 +198,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/aiko-han
           params:
               icon: brand-github
 
