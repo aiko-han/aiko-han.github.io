@@ -6,12 +6,8 @@ description = "Sample article showcasing basic Markdown syntax and formatting fo
 tags = [
     "markdown",
     "css",
-    "html",
-    "themes",
 ]
 categories = [
-    "themes",
-    "syntax",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
