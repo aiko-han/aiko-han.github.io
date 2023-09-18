@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aiko-han.github.io/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aiko-han.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aiko-han.github.io/en/about/"
+                />
+  </url><url>
     <loc>https://aiko-han.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,6 +46,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://aiko-han.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://aiko-han.github.io/en/page/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aiko-han.github.io/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aiko-han.github.io/en/page/"
                 />
   </url><url>
     <loc>https://aiko-han.github.io/en/tags/</loc>

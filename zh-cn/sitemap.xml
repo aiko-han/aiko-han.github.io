@@ -67,18 +67,6 @@
                 href="https://aiko-han.github.io/zh-cn/categories/test/"
                 />
   </url><url>
-    <loc>https://aiko-han.github.io/zh-cn/page/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aiko-han.github.io/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://aiko-han.github.io/zh-cn/page/"
-                />
-  </url><url>
     <loc>https://aiko-han.github.io/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -94,18 +82,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://aiko-han.github.io/zh-cn/tags/"
-                />
-  </url><url>
-    <loc>https://aiko-han.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aiko-han.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://aiko-han.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>
