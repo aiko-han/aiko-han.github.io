@@ -6,10 +6,10 @@
         <description>Recent content in Posts on Aiko Hanatsuka</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://aiko-han.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiko-han.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown Syntax Guide</title>
         <link>https://aiko-han.github.io/p/markdown-syntax-guide/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
         
         <guid>https://aiko-han.github.io/p/markdown-syntax-guide/</guid>
         <description>&lt;img src="https://aiko-han.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
@@ -239,7 +239,7 @@
         <item>
         <title>Rich Content</title>
         <link>https://aiko-han.github.io/p/rich-content/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
         
         <guid>https://aiko-han.github.io/p/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -362,7 +362,7 @@
         <item>
         <title>Placeholder Text</title>
         <link>https://aiko-han.github.io/p/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
         
         <guid>https://aiko-han.github.io/p/placeholder-text/</guid>
         <description>&lt;img src="https://aiko-han.github.io/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
@@ -393,7 +393,7 @@
         <item>
         <title>Math Typesetting</title>
         <link>https://aiko-han.github.io/p/math-typesetting/</link>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
         
         <guid>https://aiko-han.github.io/p/math-typesetting/</guid>
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
@@ -434,7 +434,7 @@ $$&lt;/p&gt;</description>
         <item>
         <title>Emoji Support</title>
         <link>https://aiko-han.github.io/p/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
         
         <guid>https://aiko-han.github.io/p/emoji-support/</guid>
         <description>&lt;img src="https://aiko-han.github.io/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
