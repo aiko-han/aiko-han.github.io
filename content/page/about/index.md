@@ -13,13 +13,13 @@ menu:
 ---
 
 ## Aiko Hanatsuka(aiko-han)
-  
-私は、cybozu で一般的に「DevRel」と呼ばれるようなチームで働いています。  
-普段は主に、[cybozu developer network](https://cybozu.dev/ja/) のサイト運営や、APIドキュメント・開発者向け記事などの執筆をしています。  
-cybozu に入る前は、Android Engineer でモバイルアプリの開発をしていました。  
-奈良県出身、現在は東京の近くに住んでいます🏠
+
+2023 年から cybozu で DevRel をしています。  
+エンジニア向けイベントの企画運営など、エンジニアをターゲットにしたマーケティング業務に携わっています。
+また、[cybozu developer network](https://cybozu.dev/ja/) のサイト運営や、APIドキュメント・Tips記事などテクニカルライターとして執筆活動も行っています。  
+cybozu に入る前は、Android Engineer を 5 年間やっていました。  
 
 ## Interests
-- Technical Writing
 - DevRel
+- Technical Writing
 - Enginner Marketing
