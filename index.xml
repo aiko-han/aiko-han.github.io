@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Aiko Hanatsuka</title>
+        <title>aiko-han</title>
         <link>https://aiko-han.github.io/</link>
-        <description>Recent content on Aiko Hanatsuka</description>
+        <description>Recent content on aiko-han</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
         <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiko-han.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -12,17 +12,16 @@
         <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
         
         <guid>https://aiko-han.github.io/about/</guid>
-        <description>&lt;h2 id=&#34;aiko-hanatsukaaiko-han&#34;&gt;Aiko Hanatsuka(aiko-han)&lt;/h2&gt;
-&lt;p&gt;2023 年から cybozu で DevRel をしています。&lt;br&gt;
+        <description>&lt;h2 id=&#34;aiko-han&#34;&gt;aiko-han&lt;/h2&gt;
+&lt;p&gt;元エンジニアで現在は cybozu で DevRel のような仕事をしています。&lt;br&gt;
 エンジニア向けイベントの企画運営など、エンジニアをターゲットにしたマーケティング業務に携わっています。
-また、&lt;a class=&#34;link&#34; href=&#34;https://cybozu.dev/ja/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;cybozu developer network&lt;/a&gt; のサイト運営や、APIドキュメント・Tips記事などテクニカルライターとして執筆活動も行っています。&lt;br&gt;
-cybozu に入る前は、Android Engineer を 5 年間やっていました。&lt;/p&gt;
+また、開発者向けサイトの運営や、APIドキュメント・技術系記事などのライターとして執筆業務も行っています。&lt;/p&gt;
 &lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;DevRel&lt;/li&gt;
 &lt;li&gt;Technical Writing&lt;/li&gt;
 &lt;li&gt;Enginner Marketing&lt;/li&gt;
+&lt;li&gt;SNS Marketing&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
@@ -304,7 +303,7 @@ cybozu に入る前は、Android Engineer を 5 年間やっていました。&l
         text-decoration: underline;
       }
     &lt;/style&gt;
-  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”&lt;br&gt;— Jan Tschichold &lt;a href=&#34;https://t.co/gcv7SrhvJb&#34;&gt;pic.twitter.com/gcv7SrhvJb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Graphic Design History (@DesignReviewed) &lt;a href=&#34;https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw&#34;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”&lt;br&gt;— Jan Tschichold &lt;a href=&#34;https://t.co/gcv7SrhvJb&#34;&gt;pic.twitter.com/gcv7SrhvJb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Design Reviewed | Graphic Design History (@DesignReviewed) &lt;a href=&#34;https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw&#34;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
