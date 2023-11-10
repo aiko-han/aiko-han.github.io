@@ -7,17 +7,17 @@ title: My TechNote
 languages:
     en:
         languageName: English
-        title: Aiko Hanatsuka
+        title: aiko-han
         description: Example description
         weight: 1
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: aiko-han
         description: 演示说明
         weight: 2
     ja:
         languageName: 日本語
-        title: Aiko Hanatsuka
+        title: aiko-han
         description: 説明
         weight: 3
 
